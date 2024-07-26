@@ -1,5 +1,5 @@
 # Botones App Kotlin
-Una aplicación sencilla de Android creada en Kotlin que demuestra el uso de varios tipos de botones.
+Una aplicación sencilla de Android creada en Kotlin y Jetpack Compose que demuestra el uso de varios tipos de botones.
 ## Descripción
 Esta aplicación muestra diferentes tipos de botones y sus funcionalidades en una interfaz de usuario simple. Es ideal para principiantes que desean aprender a trabajar con botones en Kotlin para Android.
 
